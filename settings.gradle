@@ -1,0 +1,2 @@
+rootProject.name = "AI Music Player"
+include ':app'
